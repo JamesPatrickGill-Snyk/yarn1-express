@@ -1,4 +1,5 @@
 {
+  "name": "something",
   "dependencies": {
     "express": "4.12.4"
   }
